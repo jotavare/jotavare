@@ -32,31 +32,11 @@ BIG ICONS
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,php" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,mysql" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,wordpress,discord,linkedin,instagram" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,au,sketchup,autocad" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,python,php,git,github,bash,linux,mysql,stackoverflow,wordpress,discord,linkedin,instagram,atom,emacs,idea,vim,vscode,ai,ps,au,sketchup,autocad&perline=10" />
   </a>
 </p>
 
 <!---
-swokyisalreadytaken/swokyisalreadytaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jotavare/jotavare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
