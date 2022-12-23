@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jotavare)
-
 <!---
 DESCRIPTION
 --->
