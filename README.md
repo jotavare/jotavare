@@ -1,3 +1,6 @@
+<!---
+DESCRIPTION
+--->
 ## Konichiwa, geeks!
 
 - 👋 My name is 'João Oliveira', the other i use a lot is 'swoky' and at [**42 Porto**](https://www.42porto.com) i go by 'jotavare'.
@@ -8,6 +11,24 @@
 - ⚡ Interesting: I jumped from a moving airplane at 5000 meters from ground and i love snowboarding.
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
+<!---
+SMALL ICONS
+--->
+<br/>
+<p align="center">
+<a href='mailto:lbordonal@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+</a>
+<a href='https://www.linkedin.com/in/lucas-bordonal' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+</a>
+<a href='https://profile.intra.42.fr/users/lbordona' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+</a>
+<img src="https://komarev.com/ghpvc/?username=lbordonal&style=flat&color=blue"></a>
+</a>
+</p>
+
+<!---
+BIG ICONS
+--->
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
