@@ -9,7 +9,7 @@ DESCRIPTION
 - 🚀 Also, i have interest and experience in `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ 6 years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
 - ⚡ Interesting: I jumped from a moving airplane at 5000 meters from ground and i love snowboarding.
-- 📫 You can reach me at [**jpoliveira.mm@gmail.com**] or [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
+- 📫 You can reach me at **jpoliveira.mm@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
 
 <!---
 SMALL ICONS
