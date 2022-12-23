@@ -1,8 +1,8 @@
 - 👋 Hi, my name is João Oliveira, the other name i use a lot is 'swoky'.
 - 🌱 Completed 42 Piscine and I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com) and [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt).
 - 👀 I’m interested in Games, Anime and 3D Printing (currently have a Creality Ender-3 V2).
-- 🌱 Also, i have interest in Python, Data Analysis and Project Management.
-- 💞️ I have 6 years of experience in Graphic Design and Offset Printing, worked for hotels in Portugal and some in Europe (InterContinental, Ibis, ...).
+- 🚀 Also, i have interest and experience in Python, Data Analysis and Project Management.
+- 🛠️ I have 6 years of experience in Graphic Design and Offset Printing, worked for hotels in Portugal and some in Europe (InterContinental, Ibis, Amorim, ...).
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 <!---
