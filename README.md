@@ -9,6 +9,15 @@
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 ## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
+  </a>
+</p>
+
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,python,html,css,linux,git,github,discord)](https://skillicons.dev)
 
 ## IDE
