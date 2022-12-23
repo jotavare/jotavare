@@ -24,12 +24,11 @@
     <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
   </a>
 </p>
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,linux,git,github,discord)](https://skillicons.dev)
-
-## IDE
-[![My Skills](https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode" />
+  </a>
+</p>
 
 ## OTHERS
 [![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,linkedin,instagram,php,stackoverflow,twitter,r,sketchup,ps,ai,au,autocad,bash)](https://skillicons.dev)
