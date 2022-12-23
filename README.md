@@ -36,8 +36,7 @@ BIG ICONS
   </a>
 </p>
 
-| SKILLS |
-| ------------- | ------------- |
+
 | [![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode)](https://skillicons.dev) |
 
 <!---
