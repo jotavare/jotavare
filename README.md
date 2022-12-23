@@ -13,6 +13,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,html,css" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+  </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
