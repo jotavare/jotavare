@@ -6,10 +6,12 @@ DESCRIPTION
 - 👋 My name is 'João Oliveira', the other i use a lot is 'swoky' and at [**42 Porto**](https://www.42porto.com) i go by 'jotavare'.
 - 🌱 Completed 42 Piscine and I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com) and [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt).
 - 👀 I’m interested in Games, Anime and 3D Printing (currently have a Creality Ender-3 V2).
-- 🚀 Also, i have interest and experience in Python, Data Analysis and Project Management.
+- 🚀 Also, i have interest and experience in `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ 6 years of experience in Graphic Design and Offset Printing (InterContinental, Ibis, Amorim, ...).
 - ⚡ Interesting: I jumped from a moving airplane at 5000 meters from ground and i love snowboarding.
 - 📫 You can reach me at jpoliveira.mm@gmail.com or [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
+
+![42](https://badgen.net/badge/Born2Code/jaeskim/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![K-Shield_Jr](https://badgen.net/badge/K-Shield%20Jr/3rd?cache=86400) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeoKim)
 
 <!---
 SMALL ICONS
