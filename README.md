@@ -3,6 +3,7 @@
 - 👀 I’m interested in Games, Anime and 3D Printing (currently have a Creality Ender-3 V2).
 - 🚀 Also, i have interest and experience in Python, Data Analysis and Project Management.
 - 🛠️ 6 years of experience in Graphic Design and Offset Printing (InterContinental, Ibis, Amorim, ...).
+- ⚡ Interesting: I jumped from a moving airplane at 5000 meters from ground and i love snowboarding.
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 <!---
