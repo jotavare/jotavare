@@ -2,7 +2,7 @@
 - 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com) and on ISEP.
 - 👀 I’m interested in Games, Anime and 3D Printing.
 - 🌱 Also, i have interest in Python, Data Analysis and Project Management.
-- 💞️ My past experience was 6 years in Graphic Design and Offset Printing for a lot of hotels in Portugal and some in Europe.
+- 💞️ I have 6 years of experience in Graphic Design and Offset Printing, worked for hotels in Portugal and some in Europe (InterContinental, Ibis, ...).
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 <!---
