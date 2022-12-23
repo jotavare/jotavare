@@ -31,7 +31,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,au,sketchup,autocad" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,au,sketchup,autocad" />
   </a>
 </p>
 
