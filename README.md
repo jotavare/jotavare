@@ -9,27 +9,27 @@
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 ## Skills
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,html,css" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bash,linux" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,au" />
   </a>
