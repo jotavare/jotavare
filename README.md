@@ -31,12 +31,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,au" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,au,sketchup,autocad" />
   </a>
 </p>
 
 ## OTHERS
-[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,linkedin,instagram,php,stackoverflow,twitter,r,sketchup,ps,ai,au,autocad,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,php,stackoverflow,r)](https://skillicons.dev)
 
 <!---
 swokyisalreadytaken/swokyisalreadytaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
