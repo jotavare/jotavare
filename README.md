@@ -1,4 +1,5 @@
-- 👋 Hi, I’m João Oliveira, the other name i use a lot is 'swoky', but is already taken.
+- 👋 Hi, my name is João Oliveira, the other name i use a lot is 'swoky'.
+- 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
 - 👀 I’m interested in Games, Anime and 3D Printing.
 - 🌱 I’m currently learning Python (#100Daysofcode), Data Analysis and Project Management.
 - 💞️ I’m looking to collaborate on python or graphic design projects.
