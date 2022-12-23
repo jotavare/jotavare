@@ -1,8 +1,8 @@
 - 👋 Hi, my name is João Oliveira, the other name i use a lot is 'swoky'.
-- 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
+- 🌱 I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com) and on ISEP.
 - 👀 I’m interested in Games, Anime and 3D Printing.
-- 🌱 I’m currently learning Python (#100Daysofcode), Data Analysis and Project Management.
-- 💞️ I’m looking to collaborate on python or graphic design projects.
+- 🌱 Also, i have interest in Python, Data Analysis and Project Management.
+- 💞️ My past experience was 6 years in Graphic Design and Offset Printing for a lot of hotels in Portugal and some in Europe.
 - 📫 You can reach me at jpoliveira.mm@gmail.com or https://www.linkedin.com/in/joaoptoliveira/.
 
 <!---
