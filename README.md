@@ -11,7 +11,7 @@
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,php,mysql" />
   </a>
 </p>
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,wordpress,discord,linkedin,instagram" />
   </a>
 </p>
 <p align="left">
@@ -34,9 +34,6 @@
     <img src="https://skillicons.dev/icons?i=ps,ai,au,sketchup,autocad" />
   </a>
 </p>
-
-## OTHERS
-[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,php,stackoverflow,r)](https://skillicons.dev)
 
 <!---
 swokyisalreadytaken/swokyisalreadytaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
