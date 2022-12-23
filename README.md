@@ -1,4 +1,4 @@
-- 👋 Hi, my name is João Oliveira, the other name i use a lot is 'swoky' and at 42 i go by the name jotavare.
+- 👋 Hi, my name is 'João Oliveira', the other name i use a lot is 'swoky' and at [**42 Porto**](https://www.42porto.com) i go by the name 'jotavare'.
 - 🌱 Completed 42 Piscine and I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com) and [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt).
 - 👀 I’m interested in Games, Anime and 3D Printing (currently have a Creality Ender-3 V2).
 - 🚀 Also, i have interest and experience in Python, Data Analysis and Project Management.
