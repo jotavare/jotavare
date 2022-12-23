@@ -11,10 +11,10 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css&perline=4" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,python,html&perline=3" />
   </a>
 </p>
 <p align="center">
