@@ -32,7 +32,7 @@ BIG ICONS
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,php,git,github,bash,linux,mysql,stackoverflow,wordpress,discord,linkedin,instagram,atom,emacs,idea,vim,vscode,ai,ps,au,sketchup,autocad&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,python,php,git,github,bash,linux,mysql,stackoverflow,wordpress,discord,linkedin,instagram,atom,emacs,idea,vim,vscode,ai,ps,au,sketchup,autocad,markdown" />
   </a>
 </p>
 
