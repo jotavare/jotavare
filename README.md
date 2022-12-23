@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=atom,emacs,idea,vim,vscode)](https://skillicons.dev)
 
 ## OTHERS
-[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,linkedin,sketchup,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql,linkedin,instagram,php,stackoverflow,twitter,r,sketchup,ps,ai,au,autocad,bash)](https://skillicons.dev)
 
 <!---
 swokyisalreadytaken/swokyisalreadytaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
