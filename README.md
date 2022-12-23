@@ -12,7 +12,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
   </a>
 </p>
