@@ -4,7 +4,7 @@ DESCRIPTION
 ## Konichiwa, geeks!
 
 - 👋 My name is `João Oliveira`, i also use `swoky` and at [**42 Porto**](https://www.42porto.com) i go by `jotavare`.
-- 🌱 Study in [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt), completed 42 Piscine and I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
+- 🌱 I study at [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt), completed 42 Piscine and I’m currently studing Common Core at [**42 Porto**](https://www.42porto.com).
 - 👀 I’m interested in `Games`, `Anime`, `Manga` and `3D Printing` (currently have a Creality Ender-3 V2).
 - 🚀 Also, i have interest and experience in `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ 6 years of experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
