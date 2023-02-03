@@ -7,7 +7,7 @@ DESCRIPTION
 - 🌱 I’m studying Common Core at [**42 Porto**](https://www.42porto.com) after completing 42 Piscine and at [**ISEP - Instituto Superior de Engenharia do Porto**](https://www.isep.ipp.pt).
 - 👀 I’m interested in `Games`, `Anime`, `Manga`, `Snowboarding` and `3D Printing` (currently have a Creality Ender-3 V2).
 - 🚀 Also, I have interest and experience in `Python`, `Data Analysis` and `Project Management`.
-- 🛠️ 7 years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
+- 🛠️ 6 years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
 - 🪂 Fun fact: Jumped from a moving airplane at 5000 meters.
 - 📫 You can reach me at **jpoliveira.mm@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
 
