@@ -3,7 +3,7 @@ DESCRIPTION
 --->
 ## Hey, you. You're finally awake.
 
-| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/jotavare/42-resources)       | 
+| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md)       | 
 |-----------------------------------------| 
 
 ## Konichiwa, geeks!
