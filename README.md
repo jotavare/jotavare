@@ -1,7 +1,7 @@
 <!---
 DESCRIPTION
 --->
-## 42 Porto
+## 🧙🏽‍♂️ I have wares, if you have coin...
 
 | 🛠️ [42 Resources](https://github.com/jotavare/42-resources/blob/main/README.md) |
 |-----------------------------------------|
