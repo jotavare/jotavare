@@ -3,7 +3,8 @@ DESCRIPTION
 --->
 ## Hey, you. You're finally awake.
 
-| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md) | [42 Piscine - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md) | [42 Common Core - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md)       | 
+| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md) * [42 Piscine - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md) * [42 Common Core - Click Here](https://github.com/jotavare/42-resources/blob/main/README.md)       | 
+|-----------------------------------------| 
 
 ## Konichiwa, geeks!
 
