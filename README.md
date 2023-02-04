@@ -1,6 +1,11 @@
 <!---
 DESCRIPTION
 --->
+## Hey, you. You're finally awake.
+
+| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
+|-----------------------------------------| 
+
 ## Konichiwa, geeks!
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
