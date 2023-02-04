@@ -3,7 +3,7 @@ DESCRIPTION
 --->
 ## Hey, you. You're finally awake.
 
-| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
+| 🛠️  &nbsp; [42 Resources - Click Here](https://github.com/jotavare/42-resources)       | 
 |-----------------------------------------| 
 
 ## Konichiwa, geeks!
