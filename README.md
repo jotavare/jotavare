@@ -1,7 +1,7 @@
 <!---
 DESCRIPTION
 --->
-## Hey, you. You're finally awake.
+## 42 Porto
 
 | 🛠️ [42 Resources](https://github.com/jotavare/42-resources/blob/main/README.md) 🏊 [42 Piscine](https://github.com/jotavare/42-piscine) 💣 [42 Common Core](https://github.com/jotavare/42-cursus)       | 
 |-----------------------------------------| 
@@ -40,9 +40,6 @@ BIG ICONS
     <img src="https://skillicons.dev/icons?i=c,html,css,python,php,git,github,bash,linux,mysql,atom,emacs,idea,vim,vscode,ai,ps,au,sketchup,autocad,markdown,stackoverflow,wordpress,discord,linkedin,instagram" />
   </a>
 </p>
-
-## 42 Porto
-[![jotavare's 42 stats](https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=21&coalitionId=293)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 jotavare/jotavare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
