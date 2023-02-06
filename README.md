@@ -3,7 +3,7 @@ DESCRIPTION
 --->
 ## Welcome back!
 
-🛠️ **[42 RESOURCES](https://github.com/jotavare/42-resources/blob/main/README.md)** | 🏊 **[42 PISCINE](https://github.com/jotavare/42-piscine)** | 💣 **[42 COMMON CORE](https://github.com/jotavare/42-cursus)**
+🛠️ **[42 RESOURCES](https://github.com/jotavare/42-resources)** | 🏊 **[42 PISCINE](https://github.com/jotavare/42-piscine)** | 💣 **[42 COMMON CORE](https://github.com/jotavare/42-cursus)**
 --- | --- | ---
 
 ## Konichiwa!
