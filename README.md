@@ -1,7 +1,7 @@
 <!---
 DESCRIPTION
 --->
-## Welcome back!
+## jotavare has wares if you have coin...
 
 <p float="left" align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
@@ -10,7 +10,6 @@ DESCRIPTION
   &nbsp;
   <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png" width="270"/>
 </p>
-
 
 ## Konichiwa!
 
