@@ -4,12 +4,14 @@ DESCRIPTION
 ## jotavare has wares if you have coin...
 
 <p float="left" align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
+  [<img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>](https://www.google.com/)
   &nbsp;
   <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png" width="270"/>
   &nbsp;
   <img src="[![name](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)](https://www.linkedin.com/in/joaoptoliveira)" width="270"/>
 </p>
+
+[![name](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)](https://www.linkedin.com/in/joaoptoliveira)
 
 ## Konichiwa!
 
