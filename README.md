@@ -10,6 +10,13 @@ Solarized dark             |  Solarized Ocean          |    Solarized dark
 🛠️ **[42 RESOURCES](https://github.com/jotavare/42-resources)** | 🏊 **[42 PISCINE](https://github.com/jotavare/42-piscine)** | 💣 **[42 COMMON CORE](https://github.com/jotavare/42-cursus)**
 --- | --- | ---
 
+<p float="left">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="100" />
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="100" /> 
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="100" />
+</p>
+
+
 ## Konichiwa!
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
