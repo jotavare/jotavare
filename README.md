@@ -11,6 +11,8 @@ DESCRIPTION
   <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png" width="270"/>
 </p>
 
+[![name](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)](https://www.linkedin.com/in/joaoptoliveira)
+
 ## Konichiwa!
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
