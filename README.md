@@ -48,7 +48,7 @@ BIG ICONS
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,php,git,github,bash,linux,mysql,atom,emacs,idea,vim,vscode,ai,ps,au,sketchup,autocad,markdown,stackoverflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,bash,linux,vim,vscode,ai,ps,sketchup,markdown,wordpress" />
   </a>
 </p>
 
