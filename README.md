@@ -5,7 +5,9 @@ DESCRIPTION
 
 <p float="left" align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="260"/>
+
   <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png" width="260"/> 
+
   <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png" width="260"/>
 </p>
 
