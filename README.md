@@ -7,11 +7,14 @@ DESCRIPTION
   <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
   </a>
+  <a href="https://github.com/jotavare/42-piscine">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png" width="270"/>
+  </a>
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png" width="270"/>
+  </a>
 </p>
 
-<a href="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
-</a>
 
 ## Konichiwa!
 
