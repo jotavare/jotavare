@@ -3,13 +3,6 @@ DESCRIPTION
 --->
 ## Welcome back!
 
-Solarized dark             |  Solarized Ocean          |    Solarized dark             
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/jotavare/jotavare/blob/main/42_resources.png)  |  ![](https://github.com/jotavare/jotavare/blob/main/42_piscine.png) |  ![](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)
-
-🛠️ **[42 RESOURCES](https://github.com/jotavare/42-resources)** | 🏊 **[42 PISCINE](https://github.com/jotavare/42-piscine)** | 💣 **[42 COMMON CORE](https://github.com/jotavare/42-cursus)**
---- | --- | ---
-
 <p float="left">
   <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="100" />
   <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="100" /> 
