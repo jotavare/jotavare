@@ -4,9 +4,9 @@ DESCRIPTION
 ## Welcome back!
 
 <p float="left">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" />
-  <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png"/> 
-  <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png"/>
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" with="260"/>
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png" with="260"/> 
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png" with="260"/>
 </p>
 
 
