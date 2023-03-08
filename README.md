@@ -9,6 +9,10 @@ DESCRIPTION
   </a>
 </p>
 
+<a href="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
+</a>
+
 ## Konichiwa!
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
