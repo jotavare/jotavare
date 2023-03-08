@@ -4,8 +4,11 @@ DESCRIPTION
 ## Welcome back!
 
 
-<img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png"> | <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png"> <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png">
-
+<p align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42_common_core.png">
+</p>
 
 
 
