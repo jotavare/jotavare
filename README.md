@@ -4,7 +4,7 @@ DESCRIPTION
 ## jotavare has wares if you have coin...
 
 <p float="left" align="center">
-  <a href="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
+  <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
   </a>
 </p>
