@@ -5,9 +5,8 @@ DESCRIPTION
 
 <p float="left" align="center">
   <a href="https://github.com/jotavare/jotavare/blob/main/42_resources.png">
-  [<img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42_resources.png" width="270"/>
   </a>
-  &nbsp;
 </p>
 
 ## Konichiwa!
