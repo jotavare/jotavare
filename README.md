@@ -8,7 +8,7 @@ DESCRIPTION
   &nbsp;
   <img src="https://github.com/jotavare/jotavare/blob/main/42_piscine.png" width="270"/>
   &nbsp;
-  <img src=[![name](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)](https://www.linkedin.com/in/joaoptoliveira) width="270"/>
+  <img src="[![name](https://github.com/jotavare/jotavare/blob/main/42_common_core.png)](https://www.linkedin.com/in/joaoptoliveira)" width="270"/>
 </p>
 
 ## Konichiwa!
