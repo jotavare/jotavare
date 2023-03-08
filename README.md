@@ -38,7 +38,7 @@ SMALL ICONS
 </a>
 <a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/42_Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </a>
-<img src="https://komarev.com/ghpvc/?username=jotavare&style=flat-square&color=orange"></a>
+<img src="https://komarev.com/ghpvc/?username=jotavare&style=flat-square&color=2312bab9"></a>
 </a>
 </p>
 
