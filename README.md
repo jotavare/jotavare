@@ -17,7 +17,7 @@ DESCRIPTION
   </a>
 </p>
 
-## Konichiwa!
+## About me
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
 - 🌱 I’m studying Common Core at [**42 Porto**](https://www.42porto.com) after completing 42 Piscine.
