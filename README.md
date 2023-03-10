@@ -5,15 +5,15 @@ DESCRIPTION
 
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42_banner/42_profile_resources.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/42_profile_resources.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-piscine">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42_banner/42_profile_piscine.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/42_profile_piscine.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-cursus">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42_banner/42_profile_common_core.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/42_profile_common_core.png" width="265"/>
   </a>
 </p>
 
