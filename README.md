@@ -1,7 +1,7 @@
 <!---
 DESCRIPTION
 --->
-## jotavare has wares if you have coin...
+## The Good, the Bad and the Ugly
 
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
