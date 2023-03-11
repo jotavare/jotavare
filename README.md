@@ -12,7 +12,7 @@ DESCRIPTION
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_profile_piscine.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jotavare/42-cursus">
+  <a href="https://github.com/jotavare/42-common-core">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_profile_common_core.png" width="265"/>
   </a>
 </p>
