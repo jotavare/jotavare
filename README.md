@@ -16,6 +16,7 @@ DESCRIPTION
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_profile_common_core.png" width="265"/>
   </a>
 </p>
+
 ## About me
 
 - 👋 My name is `João Oliveira`, I also use the nickname `swoky` and at [**42 Porto**](https://www.42porto.com) I go by `jotavare`.
