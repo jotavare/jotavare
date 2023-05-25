@@ -5,23 +5,23 @@ DESCRIPTION
 
 <p float="left" align="center">
   <a href="#">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_resources_small.png" width="255"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_resources_small.png" width="245"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_common_core_small.png" width="310"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_common_core_small.png" width="300"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_piscine_small.png" width="185"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_piscine_small.png" width="175"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_guides_small.png" width="175"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_guides_small.png" width="165"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_ctf_small.png" width="110"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_ctf_small.png" width="100"/>
   </a>
 </p>
 
