@@ -4,6 +4,28 @@ DESCRIPTION
 ## The Good, the Bad and the Ugly
 
 <p float="left" align="center">
+  <a href="#">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_resources_small.png" width="255"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_common_core_small.png" width="310"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_piscine_small.png" width="185"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_guides_small.png" width="175"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_ctf_small.png" width="110"/>
+  </a>
+</p>
+
+<p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_profile_resources.png" width="265"/>
   </a>
