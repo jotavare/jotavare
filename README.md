@@ -19,7 +19,7 @@ DESCRIPTION
 ## About me
 
 - 👋 My name is `João Oliveira`, but I also go by the nickname `swoky`, and at [**42 Porto**](https://www.42porto.com) I am known as `jotavare`.
-- 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the 42 Piscine.
+- 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
 - 👀 I’m interested in `Cybersecurity`, `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
 - 🚀 Additionally, I have an interest in and experience with `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
