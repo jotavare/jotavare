@@ -20,7 +20,7 @@ DESCRIPTION
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_ctf.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jotavare/guides">
+  <a href="https://github.com/jotavare/guides-and-manuals">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_guides_and_manuals.png" width="265"/>
   </a>
   &nbsp;
