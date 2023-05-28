@@ -3,27 +3,21 @@ DESCRIPTION
 --->
 ## The Good, the Bad and the Ugly
 <p float="left" align="center">
-  &nbsp;
   <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_resources_new.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/jotavare/42-piscine">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_piscine_new.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/jotavare/42-common-core">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_common_core_new.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/jotavare/42-ctf">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_capture_the_flag_new.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/jotavare/guides">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/42_guides_new.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/square/python_new.png" width="265"/>
   </a>
