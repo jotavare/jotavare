@@ -48,7 +48,7 @@ SMALL ICONS
 - 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing` (Creality Ender-3 V2).
 - 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
-- 🪂 Fun fact: I once jumped from a moving airplane at 5000 meters.
+- 🪂 Interesting fact: I once jumped from a moving aeroplane at 5000 meters.
 - 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
 
 
