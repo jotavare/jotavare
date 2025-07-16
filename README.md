@@ -31,4 +31,9 @@
   <a><img src="https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue&label=Profile+Visits"></a>
 </p>
 
-DevOps/Cloud Engineer with certifications in AZ-900, AZ-104, AZ-400, Terraform Associate, and GitHub Foundations, and a personal interest in cybersecurity, self-hosting applications, gaming, and 3D printing.
+## About me
+
+- Hi! I'm João and at [**42 Porto**](https://www.42porto.com/) my alias is `jotavare`, where I completed the `Piscine` and the `Common Core`.
+- I’m currently working at [**Bosch**](https://www.bosch.pt) as a `DevOps/Cloud Engineer`. I’ve also worked at [**Synopsys**](https://www.synopsys.pt) and [**42 Porto**](https://www.42porto.com/).
+- I hold the following certifications: `AZ-900`, `AZ-104`, `AZ-400`, `Terraform Associate`, and `GitHub Foundations`.
+- I have a personal interest in `cybersecurity`, `self-hosting applications`, `gaming`, and `3D printing`.
