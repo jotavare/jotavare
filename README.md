@@ -30,3 +30,5 @@
   <a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   <a><img src="https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue&label=Profile+Visits"></a>
 </p>
+
+DevOps/Cloud Engineer with certifications in AZ-900, AZ-104, AZ-400, Terraform Associate, and GitHub Foundations, and a personal interest in cybersecurity, self-hosting applications, gaming, and 3D printing.
