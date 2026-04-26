@@ -35,5 +35,5 @@
 
 - Hi! I'm João and at [**42 Porto**](https://www.42porto.com/) my alias is `jotavare`, where I completed the `Piscine` and the `Common Core`.
 - I’ve worked at [**Bosch**](https://www.bosch.pt) as a `DevOps/Cloud Engineer`, at [**Synopsys**](https://www.synopsys.pt) as a `CI/CD Engineer` and [**42 Porto**](https://www.42porto.com/) as a `IT Support`.
-- I hold the following certifications: `AZ-900`, `AZ-104`, `AZ-400`, `Terraform Associate`, and `GitHub Foundations`.
+- I hold the following certifications: `CKA`, `AZ-900`, `AZ-104`, `AZ-400`, `Terraform Associate`, and `GitHub Foundations`.
 - I have a personal interest in `cybersecurity`, `self-hosting applications`, `gaming`, and `3D printing`.
