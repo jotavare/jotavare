@@ -1,0 +1,6 @@
+# Keep everything in the repository as LF, whatever the checkout platform.
+* text=auto eol=lf
+
+# Design sources and rendered banners are binary.
+*.ai  binary
+*.png binary
