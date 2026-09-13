@@ -1,39 +1,27 @@
-<p float="left" align="center">
-  <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources_982024_651.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jotavare/42-piscine">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine_982024_651.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core_982024_651.png" width="265"/>
-  </a>
-</p>
-<p float="left" align="center">
-  <a href="https://github.com/jotavare/arduino">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_arduino_982024_651.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jotavare/jotavare.github.io">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry_982024_651.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jotavare/100-days-of-code-in-python">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python_982024_651.png" width="265"/>
-  </a>
-</p>
+### About
 
-<p align="center">
-  <a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue'/></a>
-  <a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue&label=Profile+Visits"></a>
-</p>
+Hi, I'm João, a DevSecOps / Platform Engineer, and the [**36th Kubestronaut in Portugal**](https://www.cncf.io/training/kubestronaut/?_sf_s=joao+oliveira&p=joao-oliveira).
 
-## About me
+![Profile Visits](https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue&label=Profile+Visits)
 
-- Hi! I'm João and at [**42 Porto**](https://www.42porto.com/) my alias is `jotavare`, where I completed the `Piscine` and the `Common Core`.
-- I’ve worked at [**Bosch**](https://www.bosch.pt) as a `DevOps/Cloud Engineer`, at [**Synopsys**](https://www.synopsys.pt) as a `CI/CD Engineer` and [**42 Porto**](https://www.42porto.com/) as a `IT Support`.
-- I hold the following certifications: `CKA`, `AZ-900`, `AZ-104`, `AZ-400`, `Terraform Associate`, and `GitHub Foundations`.
-- I have a personal interest in `cybersecurity`, `self-hosting applications`, `gaming`, and `3D printing`.
+### Experience
+
+| | |
+|---|---|
+| **Now** | `DevSecOps Engineer` at [**CEiiA**](https://www.ceiia.com) |
+| **2024/25** | `DevOps Engineer` at [**Bosch**](https://www.bosch.pt) |
+| **2024** | `CI/CD Engineer` at [**Synopsys**](https://www.synopsys.pt) |
+| **2023** | `Junior IT` at [**42 Porto**](https://www.42porto.com/) |
+
+### Certifications
+
+| | |
+|---|---|
+| **Linux Foundation** | `Kubestronaut` `CKS` `CKA` `CKAD` `KCNA` `KCSA` |
+| **Microsoft** | `AZ-400` `AZ-104` `AZ-900` `GitHub Foundations` |
+| **HashiCorp** | `Terraform Associate` |
+| **Harvard** | `CS50 Introduction to Computer Science` `CS50 Introduction to Cybersecurity` |
+
+### Interests
+
+`cybersecurity` `self-hosting applications` `gaming` `3D printing`
